@@ -1,8 +1,15 @@
 .container{
   font-size: 25px;
-  background-color: aqua;
+ text-align: center;
 }
 
+.BTN{
+  
+  padding: 10px;
+  background-color: pink;
+  color: blueviolet;
+  font-size: medium;
+}
 
 
 
